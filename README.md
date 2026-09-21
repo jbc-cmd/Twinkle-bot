@@ -9,7 +9,13 @@
 
 ---
 
-## 📸 Overview & Visual Layout
+## 📸 Showcase & Companion Themes
+
+<p align="center">
+  <img src="assets/Twinkle.jpg" width="31%" alt="Twinkle Star Theme" />
+  <img src="assets/Blink.jpg" width="31%" alt="Blink Cyber Eye Theme" />
+  <img src="assets/Beemo.jpg" width="31%" alt="BMO Theme" />
+</p>
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
