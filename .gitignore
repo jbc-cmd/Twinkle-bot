@@ -1,0 +1,8 @@
+.pio/
+.vscode/
+.idea/
+*.log
+*.tmp
+scratch_*
+src/main_initial.txt
+src/view_*.txt
