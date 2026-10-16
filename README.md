@@ -1,4 +1,5 @@
 # ✨ Twinkle Bot - Smart Motion-Reactive Companion & BLE Game Console
+platform you see is confidential
 
 [![Platform](https://img.shields.io/badge/Platform-ESP32--C3-blue.svg)](https://www.espressif.com/)
 [![Framework](https://img.shields.io/badge/Framework-Arduino-green.svg)](https://www.arduino.cc/)
